@@ -1,0 +1,12 @@
+human_resources.csv
+empid 			: Çalışan ID'si
+satisfaction_level 	: Çalışan memnuniyet seviyesi (0-1 arasında değer)
+last_evaluation 	: Çalışanın işi hakkındaki son değerlendirmesi (0-1 arasında değer)
+number_project 		: Çalışanın şirkette hazırladığı projeler <br>
+average_montly_hours 	: Çalışanın aylık ortalama çalıştığı saat <br>
+time_spend_company 	: Çalışanın şirkette çalıştığı süre <br>
+Work_accident 		: Çalışan kaza geçirdi mi? (1: Evet, 0: Hayır)
+left 			: Çalışan şirketten ayrıldı mı? (1: Evet, 0: Hayır)
+promotion_last_5years 	: Çalışan son 5 yılda terfi aldı mı? (1: Evet, 0: Hayır)
+dept 			: Çalışanın çalıştığı departman
+salary 			: Çalışanın maaşı (High-Medium-Low)
