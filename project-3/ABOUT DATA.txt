@@ -1,0 +1,5 @@
+EVDS_Data.xlsx
+tarih 		: Verinin oluştuğu tarih
+USD_alis	: 1 USD'nin TL değeri (alış)
+EURO_alis	: 1 EURO'nun TL değeri (alış) 
+GBP_alis	: 1 GBP'nin (İngiliz Sterlini) TL değeri (alış) 

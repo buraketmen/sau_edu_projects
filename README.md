@@ -31,3 +31,12 @@
 **promotion_last_5years** 	- Çalışan son 5 yılda terfi aldı mı? *(1: Evet, 0: Hayır)* <br>
 **dept** 					- Çalışanın çalıştığı departman <br>
 **salary** 					- Çalışanın maaşı *(High/Medium/Low)* <br>
+
+---
+
+# Project-3
+### EVDS_Data.xlsx
+**tarih** 			- Verinin oluştuğu tarih <br>
+**USD_alis** 		- 1 USD'nin TL değeri *(alış)* <br>
+**EURO_alis** 		- 1 EURO'nun TL değeri *(alış)* <br>
+**GBP_alis** 		- 1 GBP'nin *(İngiliz Sterlini)* TL değeri *(alış)*  <br>
