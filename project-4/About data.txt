@@ -1,0 +1,9 @@
+############# covid_19_data.csv ################
+Sno 		- Seri numarası
+ObservationDate - Gözlem tarihi
+Province/State 	- Gözlemin yapıldığı eyalet veya şehir
+Country/Region 	- Gözlemin yapıldığı ülke
+Last Update 	- Belirtilen eyalet veya ülke için verinin güncellendiği UTC saati
+Confirmed 	- O tarihe kadar doğrulanmış toplam vaka sayısı
+Deaths 		- O tarihe kadar gerçekleşen toplam ölüm sayısı
+Recovered 	- O tarihe kadar gerçekleşen toplam kurtulma sayısı
