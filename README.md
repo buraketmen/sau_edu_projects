@@ -39,17 +39,6 @@
 **tarih** 			- Verinin oluştuğu tarih <br>
 **USD_alis** 		- 1 USD'nin TL değeri *(alış)* <br>
 **EURO_alis** 		- 1 EURO'nun TL değeri *(alış)* <br>
-**GBP_alis** 		- 1 GBP'nin *(İngiliz Sterlini)* TL değeri *(alış)*  <br>
+**USD_satis** 		- 1 USD'nin TL değeri *(satış)* <br>
+**EURO_satis** 		- 1 EURO'nun TL değeri *(satış)* <br>
 
----
-
-# Project-4
-### covid_19_data.csv
-**Sno** 		    - Seri numarası <br>
-**ObservationDate** - Gözlem tarihi <br>
-**Province/State** 	- Gözlemin yapıldığı eyalet veya şehir<br>
-**Country/Region** 	- Gözlemin yapıldığı ülke<br>
-**Last Update** 	  - Belirtilen eyalet veya ülke için verinin güncellendiği UTC saati<br>
-**Confirmed** 	    - O tarihe kadar doğrulanmış toplam vaka sayısı<br>
-**Deaths** 		      - O tarihe kadar gerçekleşen toplam ölüm sayısı<br>
-**Recovered** 	    - O tarihe kadar gerçekleşen toplam kurtulma sayısı<br>
